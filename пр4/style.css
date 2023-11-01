@@ -14,7 +14,7 @@ header{
 }
 @font-face {
     font-family: TTLakes;
-    src: url("/font/TTLakesCondensed-Light.ttf");
+    src: url("../font/TTLakesCondensed-Light.ttf");
   }
 .header__first{
     display: flex;
